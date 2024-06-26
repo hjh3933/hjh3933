@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=Waving&color=576A4E&height=200&section=header&text=Welcome%20to%20Juhee's%20Github%20&fontSize=50&fontColor=eeeeee&animation=fadeIn&fontAlignY=38"/>
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=000000&height=200&section=header&text=Welcome%20to%20Juhee's%20Github%20&fontSize=50&fontColor=eeeeee&animation=fadeIn&fontAlignY=38"/>
 </p>
 <br/>
 
@@ -25,7 +25,17 @@
 
 <br/>
 
-## 💻Baekjoon
+## 📊Stats
+![alt 메시지](https://github-readme-stats.vercel.app/api?username=hjh3933&theme=dark)
+![alt 문구](https://github-readme-stats.vercel.app/api/top-langs/?username=hjh3933&theme=dark&layout=donut)
+
+<br/>
+
+## 🏆Trophy
+![alt 문구](https://github-profile-trophy.vercel.app/?username=hjh3933&theme=darkhub)
+
+
+## 🪪Baekjoon
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hkh3933)](https://solved.ac/wke1wke1)
 
 
