@@ -42,5 +42,5 @@
 <br/>
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=Soft&color=8E9484&height=100&section=header&animation=fadeIn&fontAlignY=38"/>
+    <img src="https://capsule-render.vercel.app/api?section=footer&type=Soft&color=8E9484&height=100&section=header&animation=fadeIn&fontAlignY=38"/>
 </p>
