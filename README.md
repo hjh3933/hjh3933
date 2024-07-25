@@ -36,7 +36,7 @@
 
 <br/>
 
-<!--## 🪪Baekjoon-->
-<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hkh3933)](https://solved.ac/wke1wke1)-->
+## 🪪Baekjoon
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hkh3933)](https://solved.ac/wke1wke1)
 
 <br/>
